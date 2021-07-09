@@ -60,7 +60,7 @@ array(
 	  ">OPPORTUNITY"=> 0, 
 	  "!STATUS_ID"=> "CONVERTED" ,
 	  //Find lead by phone number
-	  "PHONE": "555888"
+	  "PHONE": ""
 	],
 	'select'=> [ "ID", "TITLE", "STATUS_ID", "OPPORTUNITY", "CURRENCY_ID" ]
 )
